@@ -12,3 +12,6 @@ cd /var/www/html
 sudo chown $USER jbrowse
 cd jbrowse
 ./setup.sh
+
+# Test out the install
+echo "To check if the installation succeeded, go to http://localhost/jbrowse/"
