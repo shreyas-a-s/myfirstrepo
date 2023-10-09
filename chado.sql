@@ -16,6 +16,42 @@ SET xmloption = content;
 SET client_min_messages = warning;
 SET row_security = off;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 --
 -- Name: pg_trgm; Type: EXTENSION; Schema: -; Owner: -
 --
